@@ -1,2 +1,1 @@
-# Prepcourse-Henry
-Curso preparatorio Soy Henry
+Proyecto de prueva de Github
